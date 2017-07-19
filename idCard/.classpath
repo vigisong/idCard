@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jdom/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jdom/jackson-core-asl-1.8.3.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jdom/jackson-mapper-asl-1.8.3.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jdom/javassist-3.4.GA.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jdom/jdom.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/http/httpclient-4.1.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/http/httpclient-cache-4.1.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/http/httpcore-4.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/http/httpmime-4.1.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/http/jersey-client-1.9-ea04.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/http/jersey-core-1.9-ea04.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/http/jersey-json-1.9-ea04.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/http/jersey-server-1.9-ea04.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
